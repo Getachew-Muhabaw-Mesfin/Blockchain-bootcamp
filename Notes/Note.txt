@@ -1,0 +1,12 @@
+Blockchain Bootcamp
+
+Blockchain Layer 1
+Blockchain Layer 2
+
+Type of Layer 2s
+    Rollups 
+    optimistic Rollups
+    zero knowledge Rollups (zkSync) => use zkSync cryptography 
+
+layer two monitering webstie
+www.l2beat.com
