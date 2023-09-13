@@ -74,3 +74,18 @@ Realworld Examples based by smart contract
     Token
     NFT
     Decentralized Exchange
+
+ERC-20 Token
+
+NFT (Non -Fungible Tokens)
+Fungible
+    Not unique
+    Worth the same 
+    No Hierarchy
+    e.g Bitcoin, Birr
+Non Fungible
+    unique
+    Worth differnt amounts
+    Hierarchy
+    unique in
+    e.g Trading Card, Realstate, concet Ticket
