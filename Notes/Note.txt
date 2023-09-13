@@ -9,4 +9,30 @@ Type of Layer 2s
     zero knowledge Rollups (zkSync) => use zkSync cryptography 
 
 layer two monitering webstie
-www.l2beat.com
+    www.l2beat.com
+
+IPFS => InterPlantary File system for web3 world
+    pinata => upload files and images  on the internete
+    fleek.co - Build on the internet for hosting 
+
+ Cryptography 
+    - Hiding information
+    - Encoding 
+    - Decoding
+
+Encryption Algorithem
+    Raw data
+    Digist
+    Cipher
+Hashing Functions
+    -Fixed Range (constant length digist )
+    -Deterministic (no varation for the same input)
+    -Discontinous (chenge in the input complatly change the digist)
+    -No invertible (no back )
+For Blockchain use Cryptography
+    Accounts => Key pair, private key, public key, Address
+    Blocks
+    Consensus
+Hashing Algorithems
+    - ECDSA (Ellictic Curve Digital Signature Algorithem)
+    - Kaccak-256 last 20 Bytes , add 0x
