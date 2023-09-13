@@ -50,3 +50,27 @@ They are not the same
 
 If we have a private key we can generate the public key by Hashing Algorithems 
     - Private key is for one Account but seed phrases is the master password to lock multiple accounts
+
+
+Smart Contracts
+Web 2
+    USER ------> BROWSER---->FRTONTEND ---->BACLEND(Server and Database)(By Python, js or )
+Web 3
+    USER ------> BROWSER---->FRTONTEND ---->Blockchain(Users, data Programs)By solidity Programming languge 
+
+Smart Contracts
+    Digital representation of real world contracts
+    CODE IS LAW
+
+
+PROPERTIES OF smart contract
+        Agreement
+        immutable
+        transparent
+        vending Machine
+Enabls complex transactions
+
+Realworld Examples based by smart contract
+    Token
+    NFT
+    Decentralized Exchange
