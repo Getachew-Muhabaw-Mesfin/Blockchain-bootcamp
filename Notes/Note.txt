@@ -36,3 +36,17 @@ For Blockchain use Cryptography
 Hashing Algorithems
     - ECDSA (Ellictic Curve Digital Signature Algorithem)
     - Kaccak-256 last 20 Bytes , add 0x
+
+
+Ganache 
+    VISUAL MNEMONIC & ACCOUNT INFO
+    Quickly see the current status of all accounts, including their addresses, private keys, transactions and balances.
+
+They are not the same
+     Wallet => A software that manage accounts
+    Address => 0xhh 
+    Account
+    Public key
+
+If we have a private key we can generate the public key by Hashing Algorithems 
+    - Private key is for one Account but seed phrases is the master password to lock multiple accounts
