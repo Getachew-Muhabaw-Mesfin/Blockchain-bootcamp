@@ -75,7 +75,9 @@ Realworld Examples based by smart contract
     NFT
     Decentralized Exchange
 
-ERC-20 Token
+ERC-20 Token ---> Standard For Cryptocurrency on Ethereum network
+ERC-721 Token ---> Standard for NFT on Ethereum network
+
 
 NFT (Non -Fungible Tokens)
 Fungible
@@ -89,3 +91,10 @@ Non Fungible
     Hierarchy
     unique in
     e.g Trading Card, Realstate, concet Ticket
+
+USe case of NFT
+    Digital identity
+    Real Estate
+    Intellectual Properties 
+    Tickets
+    More!!
